@@ -8,6 +8,16 @@
   geolocation:
     country: PT
     city: Lisbon
+- proxy: https://193.137.38.135:443
+  protocol: https
+  ip: 193.137.38.135
+  port: 443
+  https: true
+  anonymity: transparent
+  score: 1
+  geolocation:
+    country: PT
+    city: Porto
 - proxy: https://195.246.238.180:443
   protocol: https
   ip: 195.246.238.180
@@ -28,13 +38,23 @@
   geolocation:
     country: PT
     city: Unknown
-- proxy: http://194.65.187.58:8080
+- proxy: http://94.60.14.97:3128
   protocol: http
-  ip: 194.65.187.58
-  port: 8080
+  ip: 94.60.14.97
+  port: 3128
   https: false
   anonymity: transparent
   score: 1
   geolocation:
     country: PT
-    city: Seia
+    city: Pombal
+- proxy: http://2.83.243.148:7777
+  protocol: http
+  ip: 2.83.243.148
+  port: 7777
+  https: false
+  anonymity: transparent
+  score: 1
+  geolocation:
+    country: PT
+    city: Braga

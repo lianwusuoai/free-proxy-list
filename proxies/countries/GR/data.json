@@ -130,19 +130,6 @@
     }
   },
   {
-    "proxy": "http://85.72.158.31:18080",
-    "protocol": "http",
-    "ip": "85.72.158.31",
-    "port": 18080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GR",
-      "city": "Piraeus"
-    }
-  },
-  {
     "proxy": "socks5://149.210.44.175:1080",
     "protocol": "socks5",
     "ip": "149.210.44.175",
@@ -182,19 +169,6 @@
     }
   },
   {
-    "proxy": "http://85.73.197.193:18080",
-    "protocol": "http",
-    "ip": "85.73.197.193",
-    "port": 18080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GR",
-      "city": "Athens"
-    }
-  },
-  {
     "proxy": "http://80.107.120.182:18080",
     "protocol": "http",
     "ip": "80.107.120.182",
@@ -208,19 +182,6 @@
     }
   },
   {
-    "proxy": "http://94.65.211.102:18080",
-    "protocol": "http",
-    "ip": "94.65.211.102",
-    "port": 18080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GR",
-      "city": "Drama"
-    }
-  },
-  {
     "proxy": "http://94.70.148.177:8080",
     "protocol": "http",
     "ip": "94.70.148.177",
@@ -231,19 +192,6 @@
     "geolocation": {
       "country": "GR",
       "city": "Athens"
-    }
-  },
-  {
-    "proxy": "http://62.217.77.159:1080",
-    "protocol": "http",
-    "ip": "62.217.77.159",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GR",
-      "city": "Saronida"
     }
   }
 ]

@@ -1,13 +1,13 @@
-- proxy: socks4://185.196.178.238:60606
+- proxy: socks4://83.218.186.22:5678
   protocol: socks4
-  ip: 185.196.178.238
-  port: 60606
+  ip: 83.218.186.22
+  port: 5678
   https: false
   anonymity: transparent
   score: 1
   geolocation:
     country: AT
-    city: Längenfeld
+    city: Unknown
 - proxy: https://195.192.209.130:443
   protocol: https
   ip: 195.192.209.130
@@ -158,20 +158,20 @@
   geolocation:
     country: AT
     city: Unknown
-- proxy: http://152.53.53.54:10801
+- proxy: http://89.26.83.25:8080
   protocol: http
-  ip: 152.53.53.54
-  port: 10801
+  ip: 89.26.83.25
+  port: 8080
   https: false
   anonymity: transparent
   score: 1
   geolocation:
     country: AT
-    city: Unknown
-- proxy: http://83.218.186.22:5678
+    city: Rauris
+- proxy: http://152.53.81.29:8888
   protocol: http
-  ip: 83.218.186.22
-  port: 5678
+  ip: 152.53.81.29
+  port: 8888
   https: false
   anonymity: transparent
   score: 1
@@ -188,3 +188,13 @@
   geolocation:
     country: AT
     city: Pasching
+- proxy: http://194.182.187.78:1080
+  protocol: http
+  ip: 194.182.187.78
+  port: 1080
+  https: false
+  anonymity: transparent
+  score: 1
+  geolocation:
+    country: AT
+    city: Vienna

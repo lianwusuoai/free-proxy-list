@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks4://5.95.121.180:4153",
+    "protocol": "socks4",
+    "ip": "5.95.121.180",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Potenza"
+    }
+  },
+  {
     "proxy": "https://93.63.43.131:443",
     "protocol": "https",
     "ip": "93.63.43.131",
@@ -91,19 +104,6 @@
     }
   },
   {
-    "proxy": "https://89.150.35.94:443",
-    "protocol": "https",
-    "ip": "89.150.35.94",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Esine"
-    }
-  },
-  {
     "proxy": "https://194.243.172.243:443",
     "protocol": "https",
     "ip": "194.243.172.243",
@@ -169,6 +169,19 @@
     }
   },
   {
+    "proxy": "https://87.120.103.226:9443",
+    "protocol": "https",
+    "ip": "87.120.103.226",
+    "port": 9443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Treviso"
+    }
+  },
+  {
     "proxy": "https://131.154.10.44:443",
     "protocol": "https",
     "ip": "131.154.10.44",
@@ -185,6 +198,19 @@
     "proxy": "https://138.66.66.229:443",
     "protocol": "https",
     "ip": "138.66.66.229",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://138.66.66.225:443",
+    "protocol": "https",
+    "ip": "138.66.66.225",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -247,19 +273,6 @@
     }
   },
   {
-    "proxy": "http://5.88.145.106:8080",
-    "protocol": "http",
-    "ip": "5.88.145.106",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Fidenza"
-    }
-  },
-  {
     "proxy": "http://78.134.20.48:8080",
     "protocol": "http",
     "ip": "78.134.20.48",
@@ -270,6 +283,45 @@
     "geolocation": {
       "country": "IT",
       "city": "Settimo Milanese"
+    }
+  },
+  {
+    "proxy": "http://79.52.108.2:8081",
+    "protocol": "http",
+    "ip": "79.52.108.2",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "San Giovanni la Punta"
+    }
+  },
+  {
+    "proxy": "http://185.8.148.81:8085",
+    "protocol": "http",
+    "ip": "185.8.148.81",
+    "port": 8085,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Mariano Comense"
+    }
+  },
+  {
+    "proxy": "http://93.55.126.190:8080",
+    "protocol": "http",
+    "ip": "93.55.126.190",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Marsala"
     }
   },
   {
@@ -585,6 +637,19 @@
     }
   },
   {
+    "proxy": "http://2.32.175.26:8080",
+    "protocol": "http",
+    "ip": "2.32.175.26",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Portici"
+    }
+  },
+  {
     "proxy": "http://93.55.126.184:8080",
     "protocol": "http",
     "ip": "93.55.126.184",
@@ -598,16 +663,42 @@
     }
   },
   {
-    "proxy": "http://185.8.148.81:8085",
+    "proxy": "http://185.195.129.116:4153",
     "protocol": "http",
-    "ip": "185.8.148.81",
-    "port": 8085,
+    "ip": "185.195.129.116",
+    "port": 4153,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IT",
-      "city": "Mariano Comense"
+      "city": "Bronte"
+    }
+  },
+  {
+    "proxy": "http://77.89.35.50:8080",
+    "protocol": "http",
+    "ip": "77.89.35.50",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Massa Lombarda"
+    }
+  },
+  {
+    "proxy": "http://149.86.203.217:8080",
+    "protocol": "http",
+    "ip": "149.86.203.217",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
     }
   },
   {
@@ -624,16 +715,55 @@
     }
   },
   {
-    "proxy": "http://93.55.126.190:8080",
+    "proxy": "http://84.247.236.86:48293",
     "protocol": "http",
-    "ip": "93.55.126.190",
+    "ip": "84.247.236.86",
+    "port": 48293,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Canazei"
+    }
+  },
+  {
+    "proxy": "http://2.194.164.115:8080",
+    "protocol": "http",
+    "ip": "2.194.164.115",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IT",
-      "city": "Marsala"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://81.31.148.105:3080",
+    "protocol": "http",
+    "ip": "81.31.148.105",
+    "port": 3080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://79.52.108.2:8080",
+    "protocol": "http",
+    "ip": "79.52.108.2",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "San Giovanni la Punta"
     }
   },
   {
@@ -663,42 +793,16 @@
     }
   },
   {
-    "proxy": "http://84.247.236.86:48293",
+    "proxy": "http://77.242.177.57:3129",
     "protocol": "http",
-    "ip": "84.247.236.86",
-    "port": 48293,
+    "ip": "77.242.177.57",
+    "port": 3129,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IT",
-      "city": "Canazei"
-    }
-  },
-  {
-    "proxy": "http://89.40.143.28:7788",
-    "protocol": "http",
-    "ip": "89.40.143.28",
-    "port": 7788,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://77.89.35.50:8080",
-    "protocol": "http",
-    "ip": "77.89.35.50",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Massa Lombarda"
+      "city": "Biella"
     }
   }
 ]
