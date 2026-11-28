@@ -1,5 +1,31 @@
 [
   {
+    "proxy": "socks4://93.93.61.153:1080",
+    "protocol": "socks4",
+    "ip": "93.93.61.153",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Vilnius"
+    }
+  },
+  {
+    "proxy": "socks4://81.7.112.174:4145",
+    "protocol": "socks4",
+    "ip": "81.7.112.174",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Elektrėnai"
+    }
+  },
+  {
     "proxy": "https://93.115.26.111:443",
     "protocol": "https",
     "ip": "93.115.26.111",
@@ -23,6 +49,19 @@
     "geolocation": {
       "country": "LT",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://88.222.65.45:3128",
+    "protocol": "http",
+    "ip": "88.222.65.45",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Kaunas"
     }
   },
   {
@@ -156,16 +195,42 @@
     }
   },
   {
-    "proxy": "http://46.36.74.66:1080",
+    "proxy": "http://88.119.139.237:53281",
     "protocol": "http",
-    "ip": "46.36.74.66",
-    "port": 1080,
+    "ip": "88.119.139.237",
+    "port": 53281,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "LT",
-      "city": "Plungė"
+      "city": "Klaipėda"
+    }
+  },
+  {
+    "proxy": "http://84.55.46.85:8080",
+    "protocol": "http",
+    "ip": "84.55.46.85",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Kaunas"
+    }
+  },
+  {
+    "proxy": "http://212.24.108.20:11920",
+    "protocol": "http",
+    "ip": "212.24.108.20",
+    "port": 11920,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Vilnius"
     }
   }
 ]

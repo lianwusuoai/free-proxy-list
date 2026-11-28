@@ -104,29 +104,42 @@
     }
   },
   {
-    "proxy": "http://94.68.245.147:8080",
+    "proxy": "http://188.164.201.197:666",
     "protocol": "http",
-    "ip": "94.68.245.147",
-    "port": 8080,
+    "ip": "188.164.201.197",
+    "port": 666,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "GR",
-      "city": "Alexándreia"
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "http://150.140.148.235:80",
+    "proxy": "http://85.73.197.193:18080",
     "protocol": "http",
-    "ip": "150.140.148.235",
-    "port": 80,
+    "ip": "85.73.197.193",
+    "port": 18080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "GR",
-      "city": "Pátrai"
+      "city": "Athens"
+    }
+  },
+  {
+    "proxy": "http://85.72.158.31:18080",
+    "protocol": "http",
+    "ip": "85.72.158.31",
+    "port": 18080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GR",
+      "city": "Piraeus"
     }
   },
   {
@@ -169,29 +182,29 @@
     }
   },
   {
-    "proxy": "http://80.107.120.182:18080",
+    "proxy": "http://94.68.245.147:8080",
     "protocol": "http",
-    "ip": "80.107.120.182",
-    "port": 18080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GR",
-      "city": "Markopoulo Mesogaias"
-    }
-  },
-  {
-    "proxy": "http://94.70.148.177:8080",
-    "protocol": "http",
-    "ip": "94.70.148.177",
+    "ip": "94.68.245.147",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "GR",
-      "city": "Athens"
+      "city": "Alexándreia"
+    }
+  },
+  {
+    "proxy": "http://150.140.148.235:80",
+    "protocol": "http",
+    "ip": "150.140.148.235",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GR",
+      "city": "Pátrai"
     }
   }
 ]

@@ -37,18 +37,5 @@
       "country": "BA",
       "city": "Sarajevo"
     }
-  },
-  {
-    "proxy": "http://109.165.248.250:5678",
-    "protocol": "http",
-    "ip": "109.165.248.250",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BA",
-      "city": "Trebinje"
-    }
   }
 ]
